@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/coursera/AJSD_C2M2L3_Item_07_Protecting_your_code_GL" value="true" />
+        <entry key="$USER_HOME$/coursera/Solution" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/coursera" />
+      </list>
+    </option>
+  </component>
+</application>
