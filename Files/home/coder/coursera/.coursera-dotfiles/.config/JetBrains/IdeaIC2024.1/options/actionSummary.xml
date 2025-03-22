@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorEnter">
+      <i c="1" l="1725388061233" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1727358540154" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1727358626262" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1727358652660" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1727358635989" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1725387997381" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1725388063757" />
+    </e>
+  </component>
+</application>
