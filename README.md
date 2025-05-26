@@ -55,7 +55,7 @@ Include unit tests for each class.
 ## 📬 Contact
 For any inquiries, suggestions, or feedback:
 
-📧 Email: jaithunshifaya@example.com
+📧 Email: jaithunshifaya@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
