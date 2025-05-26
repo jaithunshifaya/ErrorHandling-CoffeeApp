@@ -12,9 +12,13 @@ The project is structured to:
 
 home/coder/coursera/Solution/src/
 │
+
 ├── Coffee.java # Base class for Coffee
+
 ├── CoffeeMachine.java # Main class for simulating the coffee machine
+
 ├── Espresso.java # Subclass representing Espresso
+
 └── Latte.java # Subclass representing Latte
 
 ## 🚀 How to Run
