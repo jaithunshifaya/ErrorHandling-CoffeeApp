@@ -59,6 +59,6 @@ For any inquiries, suggestions, or feedback:
 
 💼 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
-Thank You for Stopping by!
+Thanks for stopping by!
 
 
