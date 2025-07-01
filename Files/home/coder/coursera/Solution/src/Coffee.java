@@ -14,18 +14,17 @@ public class Coffee {
         this.roast = roast;
         this.price = price;
 
-        // TODO 3: surround the setCaffeineLevel() method call with a try-catch block to handle the exception
+        
         try {
             setCaffeineLevel();
-            // The constructor calls the method to set the caffeine level based on the roast
+            
         } catch (InvalidTypeException invalidRoastTypeException) {
-            // TODO 4: inside the catch block, set the caffeineLevelInMg to 50
+            
             caffeineLevelInMg = 50;
         }
     }
 
-    // TODO 2: declare that the setCaffeineLevel() method throws a InvalidTypeException
-    // Method to set the caffeine level of the coffee based on the roast
+    
     public void setCaffeineLevel() throws InvalidTypeException {
         if (roast.equals("light")) {
             caffeineLevelInMg = 50;
@@ -34,7 +33,7 @@ public class Coffee {
         } else if (roast.equals("dark")) {
             caffeineLevelInMg = 150;
         } else {
-            // TODO 1: remove this statement & throw a "InvalidTypeException" with a message
+          
             throw new InvalidTypeException("invalid roast: ‘" + roast + "’, please select a valid roast type!");
         }
     }
